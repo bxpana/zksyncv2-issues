@@ -32,6 +32,6 @@ More details can be found at https://stackoverflow.com/help/minimal-reproducible
 
 ## Additional Details (Optional)
 - `zksync-web3` version?
-- What type of the compiler did you use (`compilerSource` in hardhat config)?
+- What type of compiler did you enter for `compilerSource` in your hardhat config(`"docker"` or `"binary"`)?
 - What version of the compiler did you use?
 - Have you tried this on other networks or testnets successfully?
