@@ -14,6 +14,8 @@ More details can be found at https://stackoverflow.com/help/minimal-reproducible
 1. Fill out the information below
 1. Share link of your issue with our community in our [Discord](https://discord.com/invite/px2aR7w) or email it to us at [support@zksync.io](mailto:support@zksync.io)
 
+---
+
 ## Issue
 *[What is the issue?]*
 
