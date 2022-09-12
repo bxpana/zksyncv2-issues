@@ -9,21 +9,26 @@ Report issues with the zkSync 2.0 testnet in the following format to help resolv
 
 More details can be found at https://stackoverflow.com/help/minimal-reproducible-example
 
-## Steps
+### Steps
 1. Fork this repo
-1. Complete the [Template.md]
+1. Fill out the information below
 1. Share link of your issue with our community in our [Discord](https://discord.com/invite/px2aR7w) or email it to us at [support@zksync.io](mailto:support@zksync.io)
 
 ## Issue
-[What is the issue?]
+*[What is the issue?]*
 
 ## Expected Behavior
-[What is the expected behavior?]
+*[What is the expected behavior?]*
+
+## Minimal Reproducible Example Code
+```
+
+```
 
 ## Steps to Reproduce
-[What are the steps to reproduce the issue?]
+*[What are the steps to reproduce the issue?]*
 
 ## Additional Details (Optional)
-- `zksync-web3` version:
-- What version of the compiler did you use?
+- `zksync-web3` version?
+- What version of the compiler did you use (`compilerSource` in hardhat config)?
 - Have you tried this on other networks or testnets successfully?
